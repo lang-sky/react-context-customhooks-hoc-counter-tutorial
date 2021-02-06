@@ -1,2 +1,5 @@
 # react-context-customhooks-hoc-counter-tutorial
-Created with CodeSandbox
+
+- Context API Provider, Consumer
+- Custom Hooks
+- HOC
