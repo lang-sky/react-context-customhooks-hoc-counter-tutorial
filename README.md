@@ -9,3 +9,6 @@ https://www.robinwieruch.de/react-hooks-higher-order-components
 
 # react hooks
 https://www.robinwieruch.de/react-hooks-migration
+
+# react check first render
+https://www.robinwieruch.de/react-ref
