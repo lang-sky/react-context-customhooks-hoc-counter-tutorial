@@ -3,3 +3,6 @@
 - Context API Provider, Consumer
 - Custom Hooks
 - HOC
+
+# react hooks vs hocs
+https://www.robinwieruch.de/react-hooks-higher-order-components
