@@ -1,3 +1,6 @@
+# Deprecated
+Thanks, go to my [react-tutorial](https://github.com/lang-sky/react-tutorial)
+
 # react-context-customhooks-hoc-counter-tutorial
 
 - Context API Provider, Consumer
